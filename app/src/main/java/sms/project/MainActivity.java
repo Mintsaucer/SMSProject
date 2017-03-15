@@ -16,6 +16,7 @@ public class MainActivity extends Activity {
     Button buttonSend;
     EditText textPhoneNo;
     EditText textSMS;
+    Button button;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
